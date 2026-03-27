@@ -36,7 +36,7 @@ export default function Home() {
       {/* Contact */}
       <section className="text-center py-10">
         <h2 className="text-2xl font-semibold">Contact</h2>
-        <p className="text-gray-400 mt-2">youremail@example.com</p>
+        <p className="text-gray-400 mt-2">logeshthambiran@gmail.com</p>
       </section>
 
     </main>
